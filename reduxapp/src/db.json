@@ -1,0 +1,7 @@
+{
+    "productos" : [ 
+        {"id": 0, "descripcion" : "Muzzarella", "precio" : 120}, 
+        {"id": 1, "descripcion" : "Fugazzeta", "precio" : 150}, 
+        {"id": 2, "descripcion" : "Napolitana", "precio" : 180},
+        {"id": 3, "descripcion" : "Jamon", "precio" : 140} ]
+}
